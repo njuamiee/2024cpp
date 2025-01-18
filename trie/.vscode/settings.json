@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.h": "cpp",
+        "string_view": "cpp",
+        "text_encoding": "cpp",
+        "typeinfo": "cpp"
+    }
+}
